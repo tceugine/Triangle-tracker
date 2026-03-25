@@ -3,7 +3,7 @@
 ### Description
 A web-based application that determines the type of a triangle based on three side lengths provided by the user. It identifies whether the sides form an Equilateral, Isosceles, or Scalene triangle, or if they cannot form a triangle at all.
 
-### Author(s)
+### The Develope
 * **Eugine chris** 
 
 ### Setup Instructions
@@ -30,8 +30,8 @@ A web-based application that determines the type of a triangle based on three si
 
 ### Contact Information
 If you have any questions, feel free to reach out via:
-* **Email**: [your.email@example.com]
-* **GitHub**: [Link to your profile]
+* **Email**: chriseugine542@gmail.com
+* **GitHub**: tceugine
 
 ### License and Copyright
 © 2024 **EUGINE CHRIS
